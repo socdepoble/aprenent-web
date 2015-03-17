@@ -1,2 +1,2 @@
-# aprenent-web
+# Aprenent web
 Repositori de proves.
